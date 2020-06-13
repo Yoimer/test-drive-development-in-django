@@ -1,0 +1,18 @@
+1592013659123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yoimer\\AppData\\Local\\Temp\\rust_mozprofilehqcWms"
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592013708168	Marionette	INFO	Listening on port 51269
+[Parent 5576, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1592013708393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592016052079	Marionette	INFO	Stopped listening on port 51269
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yoimer\\AppData\\Local\\Temp\\rust_mozprofile37xS7r"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592016053559	Marionette	INFO	Listening on port 52011
+1592016053994	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4828, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1592016207642	Marionette	INFO	Stopped listening on port 52011
+1592016244776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yoimer\\AppData\\Local\\Temp\\rust_mozprofileOOeB4r"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592016285236	Marionette	INFO	Listening on port 52131
+1592016285747	Marionette	WARN	TLS certificate errors will be ignored for this session

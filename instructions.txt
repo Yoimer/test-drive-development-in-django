@@ -1,0 +1,7 @@
+# install all the requirements
+
+django-admin startproject hashthat 
+
+cd hashthat
+
+python manage.py runserver
